@@ -14,3 +14,5 @@ With its drag-and-drop designer, users can effortlessly build webpages, integrat
 - **Integrated Search Functionality**: All web pages and uploaded content are inherently searchable, ensuring quick access to information.
 
 ANZO is more than a CMS; it’s a comprehensive tool for businesses, educators, and creators looking to manage, design, and distribute content with ease and precision.
+
+> Built in 2014
