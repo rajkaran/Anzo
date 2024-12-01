@@ -15,4 +15,4 @@ With its drag-and-drop designer, users can effortlessly build webpages, integrat
 
 ANZO is more than a CMS; it’s a comprehensive tool for businesses, educators, and creators looking to manage, design, and distribute content with ease and precision.
 
-> Built in 2014
+> Built in 2013
